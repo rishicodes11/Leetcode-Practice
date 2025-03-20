@@ -1,19 +1,15 @@
 class Solution {
 public:
     bool isPalindrome(int x) {
-        // agar -ve hai to return 0
-        if(x<0)  return 0;
-
-        string str= to_string(x);
-        cout<<str;
-        int i=0;
-        int j=str.size()-1;
-        while(i<j){
-            if(str[i]!=str[j]) return 0;
-            i++;
-            j--;
-        }
-
-        return 1;
+    if(x<0) return 0;
+    if(x%10==0 && x!=0) return 0; // as if 0 is ending then it cant be palindrome untill its 0 only 
+    int temp=0;
+    while(x>temp){
+      temp= temp*10 + x%10;
+      x/=10;  
+    }
+    //with ddry run we know that temp>=x at last  
+    
+ return (x==temp || x==temp/10);
     }
 };
