@@ -5,7 +5,7 @@ public:
         // int res=temp2 sym temp1
         // go till last
         stack<int>st;
-        int result=stoi(tokens[0]);
+        int result;
         for(auto it:tokens){
             if(it!="*" && it!="/" && it!="+" && it!="-"){
                 st.push(stoi(it));
@@ -33,6 +33,6 @@ public:
                 }
             }
         }
-        return result;
+        return st.top();
     }
 };
