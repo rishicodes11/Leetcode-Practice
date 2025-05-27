@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [1500-count-largest-group](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3034-points-that-intersect-with-cars) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0015-3sum) |
+| [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 ## Sorting
 |  |
 | ------- |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
