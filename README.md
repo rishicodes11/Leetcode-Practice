@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [1500-count-largest-group](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -115,5 +116,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
