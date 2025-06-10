@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 ## Linked List
 |  |
 | ------- |
