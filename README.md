@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0056-merge-intervals](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0136-single-number) |
 | [0461-hamming-distance](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0461-hamming-distance) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2323-minimum-bit-flips-to-convert-number) |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
