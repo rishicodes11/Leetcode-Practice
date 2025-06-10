@@ -9,18 +9,13 @@ public:
         int mineven=INT_MAX;
         for(const auto& p: mp){
             int val=p.second;
-            if((val&1) && val>maxodd){
-                maxodd=val;
+            if(val&1){
+                maxodd=max(val,maxodd);
+            }
+            else{
+                mineven=min(val,mineven);
             }
         }
-        cout<<maxodd;
-        for(const auto& p: mp){
-            int val=p.second;
-            if(((val & 1) ==0)&& val<mineven){
-                mineven=val;
-            }
-        }
-        cout<<endl<<mineven;
         return maxodd-mineven;
     }
 };
