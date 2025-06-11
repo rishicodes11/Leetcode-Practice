@@ -1,18 +1,17 @@
 class Solution {
 public:
     vector<int> countBits(int n) {
-        //basially return an array with number of set bits from 0 to n
-        // so n log n solution is easy as we gotta do for loop and then whie(n) loop to get the set bits and then put it in the array, the question demands us to do this in O(n) , in a single fucking pass,ill do the basic first aand then think 
-        vector<int>ans;
-        for(int i=0;i<=n;i++){
-            int temp=i;
-            int count=0;
-            while(temp){
-                temp= temp & temp-1;
-                count++;
+        if(n==0) return {0};
+        vector<int>result(n+1);
+        result[0]=0;
+        for(int i=1;i<=n;i++){
+            if(i&1){ //odd
+        result[i]=result[i/2]+1;
             }
-            ans.push_back(count);
+            else{
+                result[i]=result[i/2];
+            }
         }
-        return ans;
+        return result;
     }
 };
