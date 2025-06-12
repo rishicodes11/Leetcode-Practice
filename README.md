@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0138-copy-list-with-random-pointer](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0202-happy-number) |
 | [1500-count-largest-group](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1500-count-largest-group) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3034-points-that-intersect-with-cars) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
