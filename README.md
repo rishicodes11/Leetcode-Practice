@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0056-merge-intervals](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0090-subsets-ii) |
 ## Greedy
