@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1500-count-largest-group) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3034-points-that-intersect-with-cars](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3034-points-that-intersect-with-cars) |
 | [3194-find-words-containing-character](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3194-find-words-containing-character) |
