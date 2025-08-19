@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
+| [1013-fibonacci-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1500-count-largest-group) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0338-counting-bits) |
+| [1013-fibonacci-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0143-reorder-list) |
+| [1013-fibonacci-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
@@ -175,4 +178,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
