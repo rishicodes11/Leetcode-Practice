@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0338-counting-bits) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [3194-find-words-containing-character](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 ## Greedy
 |  |
 | ------- |
