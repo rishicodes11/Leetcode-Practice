@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0263-ugly-number) |
+| [0326-power-of-three](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
 | [1013-fibonacci-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0143-reorder-list) |
+| [0326-power-of-three](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
