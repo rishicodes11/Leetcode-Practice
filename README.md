@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3321-type-of-triangle) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Dynamic Programming
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0074-search-a-2d-matrix) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Divide and Conquer
 |  |
 | ------- |
