@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3321-type-of-triangle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3321-type-of-triangle) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3830-find-closest-person](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3830-find-closest-person) |
 ## Array
 |  |
 | ------- |
