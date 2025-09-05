@@ -95,12 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [0148-sort-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0148-sort-list) |
 | [3321-type-of-triangle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0190-reverse-bits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0191-number-of-1-bits) |
 ## Linked List
@@ -175,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0148-sort-list) |
 ## Counting
 |  |
 | ------- |
@@ -200,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
