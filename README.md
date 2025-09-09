@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0148-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3321-type-of-triangle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
