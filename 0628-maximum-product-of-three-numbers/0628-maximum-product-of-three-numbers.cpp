@@ -1,16 +1,33 @@
 class Solution {
 public:
     int maximumProduct(vector<int>& nums) {
-        if(nums.size()==3) return nums[0]*nums[1]*nums[2];
-        int n=nums.size();
-        //brutally bruteforce
-       // Tip : If the array in its "sorted form" looks like
+        // without sorting o(n) soln
+        // get the three max and two min numbers
+        int max1=INT_MIN;
+        int max2=INT_MIN;
+        int max3=INT_MIN;
+        int min1=INT_MAX;
+        int min2=INT_MAX;
+        for(auto it:nums){
+            if(it>max1){
+                max3=max2;
+                max2=max1;
+                max1=it;
+            }else if(it>max2){
+                max3=max2;
+                max2=it;
+            }else if(it>max3){
+                max3=it;
+            }
 
-       //  ex: [-a, -b, -c, d ......... x, y, z]
-      //  The answer will be: Max(abz, xyz)
-
-      //  Note: You need not sort the array to find the answer.
-        sort(nums.begin(),nums.end());
-        return max(nums[0]*nums[1]*nums[n-1],nums[n-1]*nums[n-2]*nums[n-3]);
+            if(it<min1){
+                min2=min1;
+                min1=it;
+            }
+            else if(it<min2){
+                min2=it;
+            }
+        }
+        return max(max1*max2*max3,min1*min2*max1);
     }
 };
