@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0152-maximum-product-subarray](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0739-daily-temperatures](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0338-counting-bits) |
 | [1013-fibonacci-number](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1013-fibonacci-number) |
 ## Hash Table
