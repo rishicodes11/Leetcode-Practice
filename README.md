@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0131-palindrome-partitioning) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3194-find-words-containing-character) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Sliding Window
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0148-sort-list) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [2887-sort-vowels-in-a-string](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2887-sort-vowels-in-a-string) |
 | [3321-type-of-triangle](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
 |  |
