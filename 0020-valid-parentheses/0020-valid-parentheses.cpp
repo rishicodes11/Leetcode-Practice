@@ -1,24 +1,20 @@
 class Solution {
 public:
+    stack<char> st;
     bool isValid(string s) {
-        stack<char> st;
+        for(auto it: s){
+            if(it=='('||it=='{'||it=='[') st.push(it);
+            else{
+                if(st.empty()) return false;
+                char ch= st.top();
+                st.pop();
+                if((it==')' && ch=='(')||
+                (it=='}' && ch=='{')||
+                (it==']' && ch=='[')) continue;
 
-        for (char it : s) {
-            if (it == '(' || it == '[' || it == '{') {
-                st.push(it);
-            } else {
-                if (st.empty()) return false;
-
-                if ((it == ')' && st.top() == '(') ||
-                    (it == ']' && st.top() == '[') ||
-                    (it == '}' && st.top() == '{')) {
-                    st.pop();
-                } else {
-                    return false;
-                }
+                else return false;
             }
         }
-
-        return st.empty(); // if anything's left, it's invalid
+        return st.empty();
     }
 };
