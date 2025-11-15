@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0238-product-of-array-except-self) |
+| [0485-max-consecutive-ones](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
