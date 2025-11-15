@@ -1,20 +1,22 @@
 class Solution {
 public:
+//  if (lastIndex[c] >= left)
+//This means:
+// “The previous occurrence of this character is
+// inside our current window [L..R].”
+
 
     int lengthOfLongestSubstring(string s) {
-        int n=s.size();
+        vector<int>lastIndex(256,-1);
+        int left=0;
         int maxlen=0;
-        for(int i=0;i<n;i++){
-            vector<bool>seen(256,0);
-            for(int j=i;j<n;j++){
-                unsigned char ch= (unsigned char)s[j];
-                if(seen[ch]){
-                    break;
-                }
-                seen[ch]=true;
-                int len=j-i+1;
-                maxlen=max(maxlen,len);
+        for(int right=0;right<s.length();right++){
+            unsigned char ch= (unsigned char)s[right];
+            if(lastIndex[ch]>=left){
+                left=lastIndex[ch]+1;
             }
+            lastIndex[ch]=right;
+            maxlen=max(maxlen,right-left+1);
         }
         return maxlen;
     }
