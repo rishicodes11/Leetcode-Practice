@@ -1,12 +1,15 @@
 class Solution {
 public:
     int maxSubArray(vector<int>& nums) {
-        int sum=0;
-        int maxSubArraySum=INT_MIN;
+        // should i contniue with the sum or should i start fresh from here
+        // while keeping in mememory the largest sum
+        // that is kadane for us
+        int maxSum=-10000;
+        int ans=INT_MIN;
         for(int i=0;i<nums.size();i++){
-            sum=max(nums[i],sum+nums[i]);
-            maxSubArraySum=max(sum,maxSubArraySum);
+            maxSum= max(maxSum+nums[i],nums[i]);
+            ans=max(ans,maxSum);
         }
-        return maxSubArraySum;
+        return ans;
     }
 };
