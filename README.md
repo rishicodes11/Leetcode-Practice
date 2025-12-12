@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0739-daily-temperatures) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1929-concatenation-of-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/rishicodes11/Leetcode-Practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/rishicodes11/Leetcode-Practice/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/rishicodes11/Leetcode-Practice/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
