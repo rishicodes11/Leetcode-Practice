@@ -12,31 +12,35 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        //normal level order traversal with a bool flag and reverse contion 
-        //first i will write the normal traversal and then we will modify it 
-        vector<vector<int>>ans;
-        queue<TreeNode*>q;
-        if(!root) return ans;
-        else q.push(root);
-        bool lefttoright=true;
-        while(!q.empty()){
-            vector<int>level;
-            int size=q.size();
-            for(int i=0;i<size;i++){
-                TreeNode* node=q.front();
-                q.pop();
-                level.push_back(node->val);
-                if(node->left) q.push(node->left);
-                if(node->right) q.push(node->right);
+      //using deque
+      //just keep in mind how u are fillling queue cause we gotta convert the queu into list and push it to ans array
+      vector<vector<int>>ans;
+      queue<TreeNode*>q;
+      if(!root) return ans;
+      else q.push(root); 
+      
+      bool lefttoright=true;
+
+      while(!q.empty()){
+        int size=q.size();
+        deque<int>level;
+
+        for(int i=0;i<size;i++){
+            TreeNode* node=q.front();
+            q.pop();
+
+            if(lefttoright){
+                level.push_back(node->val); // 1 then 1 2 then 1 2 3 type(l to r)
+            }else{
+                level.push_front(node->val);//right to left shit 1 then 2 1 then 321
             }
-            if(lefttoright==true)
-            ans.push_back(level);
-            else{
-                reverse(level.begin(),level.end());
-                ans.push_back(level);
-            }
-            lefttoright= !lefttoright;
+
+            if(node->left) q.push(node->left);
+            if(node->right) q.push(node->right);
         }
-        return ans;
+        ans.push_back(vector<int>(level.begin(),level.end()));
+        lefttoright=!lefttoright;
+      } 
+      return ans;
     }
 };
