@@ -247,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0112-path-sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -260,12 +262,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0110-balanced-binary-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
