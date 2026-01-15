@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -267,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0113-path-sum-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -279,4 +281,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0098-validate-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/rishicodes11/Leetcode-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
